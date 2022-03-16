@@ -4,9 +4,9 @@
 
 My name is Pedro Vilela.
 
-I'm a junior backend developer from Brazil.
+I'm a junior developer from Brazil.
 
-I'm currently focusing on improving my Python and Django knowledge.
+I'm currently focusing on improving my Python knowledge, focusing on web and automation (Selenium, Requests, Django, Flask).
 
 I'm also a podcaster and I've been working on a website for my podcast, which is called **Interzone**. If you speak portuguese, <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">check us out on Spotify!</a>
 
@@ -22,7 +22,7 @@ Meu nome é Pedro Vilela.
 
 Sou um desenvolvedor backend júnior.
 
-Atualmente estou focado em aprimorar meus conhecimentos de Python e Django.
+Atualmente estou focado em aprimorar meus conhecimentos de Python, focando em web e automação (Selenium, Requests, Django, Flask).
 
 Também sou podcaster e estou trabalhando em um site para meu podcast, que se chama <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">**Interzone**</a>.
 
