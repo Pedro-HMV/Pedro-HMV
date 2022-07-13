@@ -4,15 +4,13 @@
 
 My name is Pedro Vilela.
 
-I'm a junior developer from Brazil.
+I'm a junior developer from Brazil, currently working as a backend web developer with Python/Django.
 
-I'm currently focusing on improving my Python knowledge, focusing on web and automation (Selenium, Requests, Django, Flask).
+I have a lot of interest in all things Python, really focused on improving my overall knowledge of the language, as well as the web in general.
 
-I'm also a podcaster and I've been working on a website for my podcast, which is called **Interzone**. If you speak portuguese, <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">check us out on Spotify!</a>
+I have a podcast called **Interzone**. If you speak portuguese, <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">check us out on Spotify!</a>
 
-For that, I'm using Django, HTML e pure CSS. I'll include a link once the site is live.
-
-I've also worked with some other programming languages, which you can check below.
+I've also worked with some other programming languages and frameworks, which you can check below.
 
 ## PORTUGUÊS 🇧🇷
 
@@ -20,19 +18,19 @@ I've also worked with some other programming languages, which you can check belo
 
 Meu nome é Pedro Vilela.
 
-Sou um desenvolvedor backend júnior.
+Sou um desenvolvedor júnior.
 
-Atualmente estou focado em aprimorar meus conhecimentos de Python, focando em web e automação (Selenium, Requests, Django, Flask).
+Atualmente trabalho como desenvolvedor de backend web com Python/Django.
 
-Também sou podcaster e estou trabalhando em um site para meu podcast, que se chama <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">**Interzone**</a>.
+Tenho muito interesse por tudo relacionado a Python, foco muito em melhorar meu conhecimento geral da linguagem, além da web como um todo.
 
-Nesse site, estou utilizando Django, HTML e CSS puro. Colocarei o link assim que estiver no ar.
+Tenho um podcast chamado <a href="https://open.spotify.com/show/4BeFulmVxleaJYaXQmtl8P?si=e759e601db2b4605" target="_blank">**Interzone**</a>.
 
-Também trabalhei com outras linguagens de programação, que você pode conferir abaixo.
+Também tenho algum conhecimento das linguagens de programação e frameworks abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-  <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" />
   <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
